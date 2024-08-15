@@ -1,0 +1,259 @@
+{
+ "Name": "Mohammad A Rahman",
+ "Email Address": "rahman.opensourcedb@gmail.com",
+ "Phone Number": "+91-8861349278",
+ "Skills": [
+  "Oracle Database",
+  "PostgreSQL",
+  "Oracle Golden Gate",
+  "AWS/OCI Cloud services",
+  "OEM",
+  "Oracle Veridata",
+  "PGAdmin",
+  "Datadog",
+  "PG extensions",
+  "Cloud EC2",
+  "RDS",
+  "Route 53",
+  "multitenant",
+  "RAC database",
+  "Data guard",
+  "FSFO",
+  "RMAN",
+  "AWR",
+  "PITR",
+  "Shell",
+  "Python",
+  "10g",
+  "11g",
+  "12",
+  "19c",
+  "Aurora",
+  "HA – Replication",
+  "Failover",
+  "Load Balancing",
+  "SQL Developer",
+  "Toad",
+  "OEM 13c",
+  "DATADOG",
+  "JIRA Dashboard",
+  "Remedy ticketing tools",
+  "UNIX",
+  "AIX",
+  "HP-UX",
+  "Solaris",
+  "Linux",
+  "Red Hat",
+  "SQL",
+  "PLSQL"
+ ],
+ "Total Years Of Experience": "16 Years",
+ "Work Domain": [
+  "healthcare",
+  "manufacturing",
+  "finance",
+  "telecom",
+  "retail"
+ ],
+ "Work Experience": [
+  "Virtusa  Private Limited",
+  "Collabera Technologies Private Limited",
+  "NTTDATA",
+  "IBM India PVT Ltd",
+  "Primus Global Solution Ltd",
+  "Apps Associates",
+  "Envision Enterprise Solution",
+  "Introlligent Solutions PVT Ltd.",
+  "IBM Daksh Pvt. Ltd.",
+  "Globerian India Pvt. Ltd",
+  "Matrix Processing House"
+ ],
+ "Date of Birth": "NOT AVAILABLE",
+ "Gender": "NOT AVAILABLE",
+ "Marital Status": "NOT AVAILABLE",
+ "Nationality": "NOT AVAILABLE",
+ "Languages": [
+  "English"
+ ],
+ "Education Details": [
+  {
+   "Educational Institution": "NOT AVAILABLE",
+   "Education Course": "Master in Computer Application (MCA)",
+   "Education Branch": "NOT AVAILABLE",
+   "Graduation Year": "NOT AVAILABLE",
+   "Exam Percentage": "NOT AVAILABLE"
+  }
+ ],
+ "Courses and Certification": [
+  "AWS Certified Solutions Architect Associate (SAA-C03)",
+  "Oracle Database Administrator Certified Professional (OCP)",
+  "Oracle Database Administrator Certified Associate (OCA)",
+  "Oracle Database Certified SQL Expert"
+ ],
+ "Project Details": [
+  {
+   "Project Name": "British Telecom – Cloud Migration and DB Replication",
+   "Project Description": "Complete SDLC for database up gradation and migration to 19c OEL 8 server along with maintenance procedures, documentation and ensure standards definition, security, and integrity. Configure and Oracle Data guard to switchover on new machine, Configure Golden gate for minimal migration downtime and replace standby server.",
+   "Project Roles": "Database Architect",
+   "Project Duration": "Nov 2020 to Present",
+   "Project Domain": "Telecom",
+   "Project Technologies": [
+    "Oracle 11g",
+    "Multitenant 12/19c",
+    "OEM",
+    "Golden Gate",
+    "PostgresSQL",
+    "AWS/GCP Cloud infra"
+   ]
+  },
+  {
+   "Project Name": "INTUIT – Cloud Migration",
+   "Project Description": "Lead support role for BMR migration and coordinate multiple scrum teams. Install/configure, up-gradation, migration to 19c DB on two nodes cluster Linux machine and Golden Gate replication along with configure Oracle Veridata jobs for handle data sync issue and validation report Build active standby database upgrade version 19c on AWS Cloud EC2.",
+   "Project Roles": "Database Architect",
+   "Project Duration": "Oct 2019 to Jul 2020",
+   "Project Domain": "Finance",
+   "Project Technologies": [
+    "Oracle Database 10/11g",
+    "12/19c",
+    "OEM",
+    "Golden Gate",
+    "PostgreSQL Database",
+    "Cassandra NoSQL Database",
+    "Amazon Redshift database",
+    "AWS Cloud services",
+    "Storage",
+    "EC2",
+    "RDS",
+    "network Route 53",
+    "Cloud Front",
+    "Global accelerator"
+   ]
+  },
+  {
+   "Project Name": "NTTDATA – Cloud Migration",
+   "Project Description": "Configured virtual machine on OCI and install, configured 11g database. RMAN backup script to run 10g DB and copy backup files to Storage Object .And build 11g database with backup & restoration on OCI platform.",
+   "Project Roles": "Senior Database Administrator",
+   "Project Duration": "AUG2019 – SEPT2019",
+   "Project Domain": "Healthcare",
+   "Project Technologies": [
+    "Oracle 10/11g",
+    "18c automated DB",
+    "RMAN",
+    "DATAPUMP",
+    "Oracle Cloud Infra(OCI)"
+   ]
+  },
+  {
+   "Project Name": "Shop Direct Group-IBM   Cloud Migration",
+   "Project Description": "Perform standard maintenance, administrative, PT statistics, and recommend corrective actions include backup recovery, up-gradation, migrate on-premise database to AWS EC2 servers as well RDS instances, and Golden Gate installation, configuration, tuning replication process.",
+   "Project Roles": "Senior Database Administrator",
+   "Project Duration": "APRIL2017 to JAN 2019",
+   "Project Domain": "Retail",
+   "Project Technologies": [
+    "Oracle 10/11g",
+    "12c",
+    "SQL Server Database",
+    "Golden Gate",
+    "Veri-data",
+    "Linux",
+    "AWS Cloud Infra",
+    "JIRA"
+   ]
+  },
+  {
+   "Project Name": "Wipro Technology – Baxter",
+   "Project Description": "OEM cloud control, target promotion, migration, maintenance and support. Support to cell server issue and patching all component of ExaData machine.",
+   "Project Roles": "Senior Database Administrator",
+   "Project Duration": "NOV2016 to MAR2017",
+   "Project Domain": "Healthcare",
+   "Project Technologies": [
+    "Oracle DB12c EM 13c Cloud Control",
+    "Exa-Data X4-2"
+   ]
+  },
+  {
+   "Project Name": "IBM – AT & T",
+   "Project Description": "Migrate DB from window & Linux platform to standard Linux Cloud environment. Mapping data transformation in Oracle Benchmark tool application specifications.",
+   "Project Roles": "Oracle Apps DBA",
+   "Project Duration": "MAR 2015 to OCT 2016",
+   "Project Domain": "Telecom",
+   "Project Technologies": [
+    "Oracle DB 10/11g/12c",
+    "RAC",
+    "Golden Gate",
+    "MongoDB",
+    "SQL Server",
+    "Micro-Service"
+   ]
+  },
+  {
+   "Project Name": "Magma Fincorp",
+   "Project Description": "POC and documentation for migration plan with zero downtime. Cross platform Database migration by using Golden Gate.",
+   "Project Roles": "Consultant",
+   "Project Duration": "SEPT 2014 to FEB 2015",
+   "Project Domain": "Finance",
+   "Project Technologies": [
+    "Oracle 11g DB",
+    "RAC",
+    "X2-X4 Exadata with HP-Linux",
+    "Golden Gate"
+   ]
+  },
+  {
+   "Project Name": "Apps Associate – IKEA",
+   "Project Description": "Configure Oracle Golden Gate on heterogeneous environment for DML replication. Implemented Oracle Golden Gate Veri-data for heterogeneous environment.",
+   "Project Roles": "Consultant",
+   "Project Duration": "JAN 2014 to AUG 2014",
+   "Project Domain": "Retail",
+   "Project Technologies": [
+    "Oracle 10/11g",
+    "Golden Gate",
+    "Veridata",
+    "E-Business Suite 12.1",
+    "SOA 11g",
+    "Fusion Applications"
+   ]
+  },
+  {
+   "Project Name": "Walgreens – ETL & Data movement",
+   "Project Description": "Golden Gate technical support for numbers of applications. Supporting replication for both DDL and DML operation.",
+   "Project Roles": "Oracle Golden Gate DBA",
+   "Project Duration": "OCT 2012 to JAN 2014",
+   "Project Domain": "Retail",
+   "Project Technologies": [
+    "Oracle 10/11g",
+    "Golden Gate",
+    "JMS Queues",
+    "Flat Files integration",
+    "RAC 2-nodes",
+    "NAS share storage"
+   ]
+  },
+  {
+   "Project Name": "Apple Inc.  – Manufacture Quality Management (MQM)",
+   "Project Description": "Responsible for 24X7 support of production databases. Monitor database health check-up includes availability and connectivity with timely production issue remediation.",
+   "Project Roles": "Oracle DBA",
+   "Project Duration": "MAY 2011 to AUG 2012",
+   "Project Domain": "manufacturing",
+   "Project Technologies": [
+    "Oracle 10/11g",
+    "Grid",
+    "Golden Gate",
+    "Linux",
+    "Sun Solaris Exadata V2 / X2 (RAC 8-nodes)",
+    "Toad",
+    "SQL Developer"
+   ]
+  },
+  {
+   "Project Name": "UHG – Healthcare Medical Insurance",
+   "Project Description": "Proficiency with medical billing software and electronic health records (EHR). Focus on healthcare processes include emphasizes analyzing medical data, involving coding,",
+   "Project Roles": "Healthcare Business Analyst",
+   "Project Duration": "Jan 2008 to Jun 2010",
+   "Project Domain": "Healthcare",
+   "Project Technologies": [
+    "Oracle E-Business Application"
+   ]
+  }
+ ]
+}

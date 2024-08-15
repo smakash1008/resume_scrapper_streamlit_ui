@@ -1,0 +1,157 @@
+{
+ "Name": "Dayanithi S",
+ "Email Address": "NOT AVAILABLE",
+ "Phone Number": "NOT AVAILABLE",
+ "Skills": [
+  "Software Quality Assurance",
+  "Test Automation",
+  "Software Testing",
+  "Selenium",
+  "Java",
+  "TestNG",
+  "Maven",
+  "Appium",
+  "REST Assured",
+  "Azure DevOps",
+  "Jenkins",
+  "GIT",
+  "Cucumber",
+  "SDLC",
+  "STLC",
+  "Agile",
+  "Kanban",
+  "Regression Testing",
+  "API Testing",
+  "Mobile Testing",
+  "Web Testing",
+  "Cloud Testing",
+  "SauceLabs",
+  "Jira",
+  "Confluence",
+  "HP ALM",
+  "Cypress",
+  "Test Planning",
+  "Test Design",
+  "Defect Management",
+  "SQL",
+  "EDI",
+  "HIPAA",
+  "EHR",
+  "ICD10",
+  "Salesforce",
+  "UI Automation",
+  "Android Studio",
+  "UIAutomator2",
+  "Azure Repo GIT",
+  "Log4j2",
+  "Extent Reporting",
+  "BDD"
+ ],
+ "Total Years Of Experience": "11",
+ "Work Domain": [
+  "Ecommerce",
+  "US Healthcare",
+  "Trading & Securities",
+  "Telecom",
+  "Banking"
+ ],
+ "Work Experience": [
+  "Benefithub",
+  "Athena Health India Tech Pvt Ltd",
+  "Wipro Technologies",
+  "Candor Bio Tech Ltd"
+ ],
+ "Date of Birth": "07-Jan-1989",
+ "Gender": "NOT AVAILABLE",
+ "Marital Status": "Single",
+ "Nationality": "Indian",
+ "Languages": [
+  "Tamil",
+  "English"
+ ],
+ "Education Details": [
+  {
+   "Educational Institution": "University of Madras, Chennai",
+   "Education Course": "MCA",
+   "Education Branch": "Computer Applications",
+   "Graduation Year": "NOT AVAILABLE",
+   "Exam Percentage": "70%"
+  }
+ ],
+ "Courses and Certification": [],
+ "Project Details": [
+  {
+   "Project Name": "Benefit Hub",
+   "Project Description": "Benefit Hub is a global market leader in delivering everyday discounts and benefits that employees want, having served large companies for over two decades.",
+   "Project Roles": "Test Automation Team Lead",
+   "Project Duration": "21- Apr - 19 to Till Date",
+   "Project Domain": "Employee Benefits",
+   "Project Technologies": [
+    "Appium",
+    "TestNG",
+    "Android",
+    "iOS",
+    "Cloud Test",
+    "SauceLabs",
+    "Jira",
+    "Extent Reports",
+    "GIT",
+    "CI/CD",
+    "MS Azure"
+   ]
+  },
+  {
+   "Project Name": "AthenaNet",
+   "Project Description": "AthenaNet is a cloud-based EHR system with features for managing patient data, results, and Meaning Use measures, while Athena Collector streamlines medical billing and supports patient registration and appointments.",
+   "Project Roles": "Test Engineer",
+   "Project Duration": "03- Apr - 17 to Mar 2019",
+   "Project Domain": "Healthcare",
+   "Project Technologies": [
+    "EHR",
+    "AthenaNet",
+    "Ambulatory Clinicals",
+    "Hospital Clinicals",
+    "EPCS",
+    "ICD10",
+    "EDI",
+    "EDI 837",
+    "EDI 835",
+    "HIPAA",
+    "Salesforce",
+    "JIRA",
+    "Selenium WebDriver",
+    "TestNG",
+    "Maven",
+    "Jenkins",
+    "Cucumber BDD",
+    "Page Object Model"
+   ]
+  },
+  {
+   "Project Name": "State Street",
+   "Project Description": "Involved in testing of a Trading Application and Active Investor-Customer Interface.",
+   "Project Roles": "Test Engineer",
+   "Project Duration": "09- Nov - 10 to 23- Mar – 17",
+   "Project Domain": "Trading & Finance",
+   "Project Technologies": [
+    "SQL",
+    "HP ALM 12.21",
+    "Oracle Sql Developer 4.0.1",
+    "Oracle 11g",
+    "UFT 12.50"
+   ]
+  },
+  {
+   "Project Name": "Level 3 – Telecom Unity Application, Migrated user interface",
+   "Project Description": "This project involved reviewing and analyzing network inventory information, constructing network elements, and cleansing data.",
+   "Project Roles": "Project Engineer",
+   "Project Domain": "Telecom",
+   "Project Duration": "NOT AVAILABLE",
+   "Project Technologies": [
+    "TNE",
+    "GRANITE",
+    "Telcordia Granite"
+   ]
+  }
+ ]
+}

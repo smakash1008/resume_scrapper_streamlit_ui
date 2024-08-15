@@ -1,0 +1,71 @@
+{
+ "Name": "Vinodhini Raviprasad",
+ "Email Address": "vinodhiniraviprasad@gmail.com",
+ "Phone Number": "+91-8056110859",
+ "Skills": [
+  "Java",
+  "Java Script",
+  "Vba",
+  "Vbs",
+  "Cypress",
+  "Selenium",
+  "HP UFT",
+  "SauceLabs",
+  "TestNG",
+  "Maven",
+  "Cucumber",
+  "Mocha",
+  "Chai",
+  "Postman API",
+  "Grafana K6",
+  "JMeter",
+  "LoadRunner",
+  "AWS",
+  "Power Automate",
+  "Power BI",
+  "SQL",
+  "Jenkins",
+  "GitActions",
+  "Git",
+  "GitLabs AWS",
+  "Figma",
+  "Jira",
+  "Xray",
+  "Agile",
+  "Scrum",
+  "Slack",
+  "Confluence",
+  "HP ALM",
+  "Problem Solving",
+  "Agile Project Management",
+  "Leadership"
+ ],
+ "Total Years Of Experience": "9.11",
+ "Work Domain": [
+  "Health care",
+  "Banking",
+  "Telecom industries"
+ ],
+ "Work Experience": [
+  "Eli Lilly and Company",
+  "Maveric Systems"
+ ],
+ "Date of Birth": "NOT AVAILABLE",
+ "Gender": "NOT AVAILABLE",
+ "Marital Status": "NOT AVAILABLE",
+ "Nationality": "NOT AVAILABLE",
+ "Languages": [
+  "NOT AVAILABLE"
+ ],
+ "Education Details": [
+  {
+   "Educational Institution": "Sethu Institute of Technology, Virudhunagar Dist",
+   "Education Course": "Bachelor of Technology",
+   "Education Branch": "Information Technology",
+   "Graduation Year": "2014",
+   "Exam Percentage": "NOT AVAILABLE"
+  }
+ ],
+ "Courses and Certification": [],
+ "Project Details": []
+}

@@ -1,0 +1,80 @@
+{
+ "Name": "Akash S M",
+ "Email Address": "smakash10081998@gmail.com",
+ "Phone Number": "+91 8778382832",
+ "Skills": [
+  "Hadoop",
+  "Sqoop",
+  "Hive",
+  "Spark core",
+  "Spark SQL",
+  "Oozie",
+  "SQL",
+  "Oracle",
+  "Python",
+  "Java",
+  "Hadoop MapReduce",
+  "Spark",
+  "Linux",
+  "Windows",
+  "Pycharm",
+  "Hortonworks"
+ ],
+ "Total Years Of Experience": "2",
+ "Work Domain": [
+  "Tourism and Travel"
+ ],
+ "Work Experience": [
+  "EzeeScore Technologies Pvt Ltd., Chennai",
+  "Jaya Tv"
+ ],
+ "Date of Birth": "10th August 1998",
+ "Gender": "Male",
+ "Marital Status": "Single",
+ "Nationality": "Indian",
+ "Languages": [
+  "English",
+  "Tamil"
+ ],
+ "Education Details": [
+  {
+   "Educational Institution": "Anna University (Meenakshi Sundararajan Engineering College)",
+   "Education Course": "B.Tech",
+   "Education Branch": "IT",
+   "Graduation Year": "2020",
+   "Exam Percentage": "7.3 Cgpa"
+  },
+  {
+   "Educational Institution": "New Prince Matriculation Higher Secondary School",
+   "Education Course": "Higher Secondary",
+   "Education Branch": "NOT AVAILABLE",
+   "Graduation Year": "2016",
+   "Exam Percentage": "92%"
+  },
+  {
+   "Educational Institution": "New Prince Matriculation Higher Secondary School",
+   "Education Course": "Secondary",
+   "Education Branch": "NOT AVAILABLE",
+   "Graduation Year": "2014",
+   "Exam Percentage": "98%"
+  }
+ ],
+ "Courses and Certification": [],
+ "Project Details": [
+  {
+   "Project Name": "KnowMe Analytics and Visualization",
+   "Project Description": "Developed a tool to analyze and process the data present in the RDBMS and Amazon S3 using Spark and help the client to improve the services to their tourists. Created a dashboard and updated analytics and visualization data regularly.",
+   "Project Roles": "Developer",
+   "Project Duration": "Oct 2021 - Feb 2023",
+   "Project Domain": "Tourism and Travel",
+   "Project Technologies": [
+    "Hadoop",
+    "Map Reduce",
+    "HDFS",
+    "Hive",
+    "Sqoop",
+    "Pyspark"
+   ]
+  }
+ ]
+}

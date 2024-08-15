@@ -1,0 +1,206 @@
+{
+ "Name": "Mayank Agarwal",
+ "Email Address": "mayanka512@gmail.com",
+ "Phone Number": "9560186741",
+ "Skills": [
+  "GoldeGate",
+  "GoldenGate Veridata",
+  "Data guard configuration",
+  "administration on RAC",
+  "ASM",
+  "Oracle Database Architecture",
+  "Oracle 10g",
+  "11g",
+  "12c",
+  "19c",
+  "Database Storage Structure",
+  "Schema Objects",
+  "Database user",
+  "Oracle Security Features",
+  "RMAN",
+  "offline/online",
+  "Migration",
+  "Upgradation",
+  "UNIX shell scripting",
+  "refresh automation",
+  "scheduling backup",
+  "database monitoring",
+  "backup verification",
+  "weekly reporting",
+  "GoldenGate 21c Microservices",
+  "ExaCC",
+  "Exadata",
+  "GoldenGate Veridata 12.2.1.4.0",
+  "AWR",
+  "ASH",
+  "High Availability (HA)",
+  "Disaster Recovery (DR)",
+  "OEM 12c/13c",
+  "UNIX on (Sun Solaris",
+  "HP-UX",
+  "AIX)",
+  "Linux",
+  "ORACLE Server 10g",
+  "11g",
+  "12c",
+  "19c",
+  "11g",
+  "12c",
+  "19c",
+  "21c",
+  "Veridata",
+  "Quarter RAC",
+  "Half RAC",
+  "Shell scripting",
+  "Toad",
+  "SQL*PLUS",
+  "RMAN",
+  "Datapump",
+  "Service Now",
+  "Remedy"
+ ],
+ "Total Years Of Experience": "10.5",
+ "Work Domain": [
+  "IT",
+  "Oracle DBA",
+  "Oracle Solution Service"
+ ],
+ "Work Experience": [
+  "Oracle India",
+  "HCL Technologies",
+  "Wipro Ltd",
+  "Tech Mahindra",
+  "Infogain India Pvt Ltd",
+  "Wipro Ltd"
+ ],
+ "Date of Birth": "5 Dec 1988",
+ "Gender": "NOT AVAILABLE",
+ "Marital Status": "Married",
+ "Nationality": "Indian",
+ "Languages": [
+  "NOT AVAILABLE"
+ ],
+ "Education Details": [
+  {
+   "Educational Institution": "Moradabad  Institute  of  Technology,  Moradabad.  Affiliated  to  UP  Technical  University,  Lucknow, U.P.",
+   "Education Course": "Bachelor of Technology",
+   "Education Branch": "Electronics & Comm",
+   "Graduation Year": "2010",
+   "Exam Percentage": "65"
+  },
+  {
+   "Educational Institution": "G.D. Birla Memorial School, Ranikhet",
+   "Education Course": "Intermediate",
+   "Education Branch": "NOT AVAILABLE",
+   "Graduation Year": "NOT AVAILABLE",
+   "Exam Percentage": "77"
+  },
+  {
+   "Educational Institution": "Saraf Public School, Khatima",
+   "Education Course": "Matriculation",
+   "Education Branch": "NOT AVAILABLE",
+   "Graduation Year": "NOT AVAILABLE",
+   "Exam Percentage": "64.2"
+  }
+ ],
+ "Courses and Certification": [
+  "Oracle Database Administration 2019 Certified Professional",
+  "Oracle GoldenGate 12c Certified Implementation Specialist",
+  "Oracle Cloud Infrastructure 2023 Certified Architect Associate"
+ ],
+ "Project Details": [
+  {
+   "Project Name": "Standard Bank of South Africa",
+   "Project Description": "Installation and Configuration of GoldenGate 21c Microservices. Configuration  of  replication  process  between  ExaCC  (Source  database)  to  Exadata  (Target Database).",
+   "Project Roles": "Principal Consultant",
+   "Project Duration": "Oct’2023 to till date",
+   "Project Domain": "NOT AVAILABLE",
+   "Project Technologies": [
+    "GoldenGate 21c Microservices",
+    "ExaCC",
+    "Exadata",
+    "GoldenGate Veridata 12.2.1.4.0"
+   ]
+  },
+  {
+   "Project Name": "Nordea Bank, Denmark",
+   "Project Description": "Managing Oracle Database version 11g, 12c, 19c on both RAC, Standalone, Exadata. Managing Active Dataguard & Physical Standby.",
+   "Project Roles": "Associate Consultant",
+   "Project Duration": "Jan’2022 to till date",
+   "Project Domain": "NOT AVAILABLE",
+   "Project Technologies": [
+    "Oracle Database version 11g",
+    "12c",
+    "19c",
+    "RAC",
+    "Standalone",
+    "Exadata",
+    "Active Dataguard & Physical Standby",
+    "Goldengate version 12c",
+    "19c",
+    "Dataguard Broker & Manual Switchover",
+    "RMAN",
+    "Datapump",
+    "Goldengate"
+   ]
+  },
+  {
+   "Project Name": "AT&T, USA",
+   "Project Description": "Managing Oracle Database version 10g, 11g, 12c, 19c on both RAC, Standalone, ExaCM. Managing Active Dataguard & Physical Standby.",
+   "Project Roles": "Lead DBA",
+   "Project Duration": "April 2019 - Sept’2021",
+   "Project Domain": "NOT AVAILABLE",
+   "Project Technologies": [
+    "Oracle Database version 10g",
+    "11g",
+    "12c",
+    "19c",
+    "RAC",
+    "Standalone",
+    "ExaCM",
+    "Active Dataguard & Physical Standby",
+    "Goldengate version 12c",
+    "19c",
+    "Dataguard Broker & Manual Switchover",
+    "RMAN",
+    "Azure"
+   ]
+  },
+  {
+   "Project Name": "Netapp, USA",
+   "Project Description": "Managing Oracle Database version 11g, 12c on both RAC, Standalone. Managing Active Dataguard & Physical Standby.",
+   "Project Roles": "Technical Consultant",
+   "Project Duration": "May 2016 - April 2019",
+   "Project Domain": "NOT AVAILABLE",
+   "Project Technologies": [
+    "Oracle Database version 11g",
+    "12c",
+    "RAC",
+    "Standalone",
+    "Active Dataguard & Physical Standby",
+    "Goldengate version 12c",
+    "RMAN",
+    "Datapump",
+    "Goldengate"
+   ]
+  },
+  {
+   "Project Name": "MTS, India",
+   "Project Description": "Managing Oracle Database version 10g, 11g on both RAC, Standalone, Exadata. Managing Active Dataguard & Physical Standby.",
+   "Project Roles": "ORACLE DBA",
+   "Project Duration": "Nov’2013 - April 2016",
+   "Project Domain": "NOT AVAILABLE",
+   "Project Technologies": [
+    "Oracle Database version 10g",
+    "11g",
+    "RAC",
+    "Standalone",
+    "Exadata",
+    "Active Dataguard & Physical Standby",
+    "Goldengate version 12c",
+    "RMAN",
+    "Datapump"
+   ]
+  }
+ ]
+}

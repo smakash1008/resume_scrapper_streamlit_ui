@@ -1,0 +1,125 @@
+{
+ "Name": "SUGANDHAN R",
+ "Email Address": "sugusugan0@gmail.com",
+ "Phone Number": "91 9944718659",
+ "Skills": [
+  "Proactive and result driven QA Analyst",
+  "Automation",
+  "Manual Testing",
+  "Quality assurance",
+  "SDET",
+  "test automation framework creation",
+  "productivity",
+  "process improvements",
+  "Quality Process initiatives",
+  "best practices",
+  "code reviews",
+  "Selenium automation",
+  "Selenium WebDriver",
+  "Appium",
+  "TestNg",
+  "Cucumber",
+  "Maven",
+  "Page Objects framework",
+  "Selenium WebDriver automation scripts",
+  "JAVA",
+  "Mobile Testing",
+  "ANDROID",
+  "IOS Devices",
+  "Mobile automation",
+  "APPIUM",
+  "IOS",
+  "APPIUM and XCODE",
+  "WebdriverIO automation scripts",
+  "JAVA SCRIPT",
+  "Automation phases",
+  "Initiating",
+  "Planning",
+  "Executing",
+  "Controlling",
+  "Reporting",
+  "AGILE Methodologies",
+  "Scrum processes",
+  "Defect Reporting and Tracking using Automation Tools like JIRA",
+  "QA Testing",
+  "Functional, API Testing",
+  "WebApp UI",
+  "System",
+  "Regression",
+  "Smoke",
+  "Exploratory",
+  "Cross Browser testing",
+  "SDLC & STLC",
+  "CI CD tools like Jenkins and Watchpost",
+  "regression test",
+  "code reviews on the Pull requests"
+ ],
+ "Total Years Of Experience": "6.7 years",
+ "Work Domain": [
+  "B2B products",
+  "Web application",
+  "Mobile App",
+  "Payments",
+  "Grow"
+ ],
+ "Work Experience": [
+  "Tata Consultancy Services",
+  "Citi"
+ ],
+ "Date of Birth": "NOT AVAILABLE",
+ "Gender": "NOT AVAILABLE",
+ "Marital Status": "NOT AVAILABLE",
+ "Nationality": "NOT AVAILABLE",
+ "Languages": [
+  "English",
+  "French"
+ ],
+ "Education Details": [
+  {
+   "Educational Institution": "Sri Manakula vinayagar Engineering College",
+   "Education Course": "BTech",
+   "Education Branch": "Information Technology",
+   "Graduation Year": "2017",
+   "Exam Percentage": "NOT AVAILABLE"
+  }
+ ],
+ "Courses and Certification": [],
+ "Project Details": [
+  {
+   "Project Name": "Woolworths",
+   "Project Description": "Designing and executing Test cases, writing scripts for modules assigned using Selenium Web driver and Java.",
+   "Project Roles": "Automation Test Engineer",
+   "Project Duration": "08/2017   08/2022",
+   "Project Domain": "Web Application",
+   "Project Technologies": [
+    "Selenium Webdriver",
+    "Jenkins",
+    "Eclipse"
+   ]
+  },
+  {
+   "Project Name": "Marks and Spencers UK",
+   "Project Description": "Responsible for all QA activities from Test Plan to Automation Coverage at each sprints in a scrum team, automate test cases before the end of every sprints to provide test coverage of user requirements.",
+   "Project Roles": "Automation Test Engineer",
+   "Project Duration": "08/2017   08/2022",
+   "Project Domain": "Web-application, Mobile App",
+   "Project Technologies": [
+    "Selenium Webdriver",
+    "Webdriver IO",
+    "Appium",
+    "xcode",
+    "Android Studio"
+   ]
+  },
+  {
+   "Project Name": "Payments & Grow",
+   "Project Description": "Leaded payments and grow domain testing team in APAC region, Created automation CICD framework and implemented it on entire project.",
+   "Project Roles": "Lead Automation Test Engineer",
+   "Project Duration": "08/2022   Present",
+   "Project Domain": "Payments & Grow",
+   "Project Technologies": [
+    "Perfecto"
+   ]
+  }
+ ]
+}
